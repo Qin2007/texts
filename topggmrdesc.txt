@@ -1,0 +1,44 @@
+i will explain the commands
+/rcreate create a role using a permission template added by the code,
+
+/rrecolor this command colors to a random set color,
+
+/raddroletoeveryone add a role to everyone in the server,
+
+/follow and /followit follow one of 2 channels from bot support,
+
+/help basic knowledge about roles,
+
+/kgetprunecount get the prune count if push button you can prune too req kick members,
+
+/nfind and /nsearch search server members using nick or name the
+important diff is that nfind only returns that match exactly,
+
+/rcloneperms sets all permissions of fromrole to torole
+the bot must have all permissions that need to put over,
+
+
+/rcountroles see its description it's as basic as it can get,
+
+/rdeleteroles deletes all roles that have "byMR.bot" at the end
+that substring is the end of roles created by /rcreate,
+
+/rismemberpending (also a user command with same name) checks if a member is pending if true dont give him roles,
+
+/rkkickallmemberswithrole usefull for mass kicking members from your server it kicks all members with that role,
+
+/rlist_roles  list roles bot_managed means it's only for a bot
+everyone means it's the server's everyone role boosts means it's the guild's booster role,
+
+/redit its the same as /rcreate except that it take a role instead of creating it,
+
+/rnsetallmembnickwithrole it sets all member's nickname to it if they have the role
+
+/rpermissions gives the permissions of the member and channel and role green means the green tick which means allowed
+red means deny, black means / means it depends on the others,
+
+/rpermissiontempate gets the perms which it would apply using /redit and /rcreate,
+
+/rrolepermadmin and /rrolepermplayers get roles based on permissions which are true
+
+/rremoverolefromeveryone same as raddroletoeveryone except it removes the role instead
